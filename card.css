@@ -1,0 +1,25 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image{
+    width:200px;
+}
+.div{
+    width: 600px;
+    display:flex;
+    justify-content: space-around;
+    background:#ffc2d1;
+    color:#2b2839;
+    border: 6px solid #fb8500;
+    border-radius:5px;
+    padding: 30px;
+    margin: 0 auto;
+    
+}
+.content{
+    text-align: center;
+    border:5px dotted #fb8500
+
+}
